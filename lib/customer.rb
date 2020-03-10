@@ -27,4 +27,3 @@ class Customer
       meal.waiter == self
     end
 end
-
