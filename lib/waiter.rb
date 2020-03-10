@@ -31,4 +31,3 @@ class Waiter
 end
 
 
-end
