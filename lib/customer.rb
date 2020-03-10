@@ -27,3 +27,5 @@ class Customer
   #     meal.waiter
   # end
 # end
+
+end
